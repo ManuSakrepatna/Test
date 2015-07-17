@@ -1,4 +1,8 @@
 First change
 Change in web
 Second change in desktop
+<<<<<<< HEAD
 Third change in desktop
+=======
+Web 2
+>>>>>>> origin/master
